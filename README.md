@@ -22,7 +22,7 @@
 </div>
 <hr>
 ### :man_technologist: About Me :
-I am a Flutter Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Uzbekiston.
+-I am a Flutter Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Uzbekiston.
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
@@ -47,5 +47,6 @@ I am a Flutter Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 </div>
 <hr>
 ### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dilshojon216&theme=shades-of-purple&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
