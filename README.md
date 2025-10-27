@@ -188,16 +188,16 @@ Men — dasturiy ta'minot ishlab chiquvchi, asosan **NestJS backend** va **Flutt
 <div align="center">
 
 ### 🎖️ **Professional Achievements**
-- 🏆 **Best IoT Project** - AgroFlow AI (Local Tech Competition 2024)
-- 🥇 **Innovation Award** - Smart Agriculture Solutions
-- 🎯 **Top Contributor** - Open Source Flutter Projects
-- 🌟 **Mentor of the Year** - Junior Developers Program
+- 💻 **5+ yillik** dasturlash tajribasi
+- 🚀 **15+ loyiha** production muhitida ishlamoqda
+- � **AgroFlow** - real foydalanuvchilar bilan IoT loyiha
+- 📱 **Flutter** - 20+ mobil ilovalar yaratildi
 
-### 📜 **Certifications**
-- ✅ **AWS Certified Developer** - Cloud Solutions
-- ✅ **Google Flutter Certified** - Mobile Development  
-- ✅ **MongoDB Professional** - Database Administration
-- ✅ **Docker Certified Associate** - Containerization
+### 📜 **O'rganilayotgan/Rejalar**
+- ☁️ **AWS/Azure** - Cloud services o'rganish jarayonida
+- 🤖 **AI/ML** - Machine Learning asoslari  
+- 🔒 **Blockchain** - FinTech uchun research
+- 📊 **Data Science** - Agricultural analytics
 
 </div>
 
@@ -225,21 +225,21 @@ Men — dasturiy ta'minot ishlab chiquvchi, asosan **NestJS backend** va **Flutt
 
 ---
 
-## 🎖️ **Sertifikatlar va yutuqlar**
+## 🎖️ **O'rganayotgan texnologiyalar va maqsadlar**
 
 <div align="center">
 
-### 🏅 **Professional sertifikatlar**
-- 🎯 **IoT Development** - Arduino va STM32 loyihalar
-- 🚀 **Flutter Developer** - Mobil ilovalar yaratish
-- ⚡ **NestJS Backend** - Mikroxizmatlar arxitekturasi
-- 💾 **PostgreSQL** - Ma'lumotlar bazasi boshqaruvi
+### 📚 **Hozirda o'rganayotgan**
+- 🎯 **IoT Development** - Arduino va STM32 bilan tajriba
+- 🚀 **Flutter** - Mobil dasturlash o'rganish
+- ⚡ **NestJS** - Backend dasturlash asoslari
+- 💾 **PostgreSQL** - Ma'lumotlar bazasi texnologiyalari
 
-### 🏆 **Loyihalar statistikasi**
-- 📈 **15+** Production loyihalari
-- 🌟 **5** Yirik IoT tizimlari
-- 💰 **3** FinTech platformalari  
-- 🌾 **2** AgriTech echimlari
+### � **Loyiha rejalarim**
+- 📈 **5+** Ta'lim loyihalari (GitHub'da)
+- 🌟 **1-2** IoT tajriba loyihalari
+- � **Pet projektlar** - shaxsiy rivojlanish uchun
+- � **Open Source** - jamoa bilan ishlash tajribasi
 
 </div>
 
@@ -249,35 +249,36 @@ Men — dasturiy ta'minot ishlab chiquvchi, asosan **NestJS backend** va **Flutt
 
 <div align="center">
 
-### 🗣️ **Testimonials**
+### � **O'rganish va rivojlanish**
 
-> *"Dilshodjon's IoT solutions transformed our agriculture business. His AgroFlow system increased our crop yield by 30% while reducing water consumption."*  
-> **— Farmer's Union CEO, Uzbekistan**
+> *"Har kuni yangi narsalarni o'rganishga harakat qilaman. Texnologiya tez rivojlanib bormoqda va men ham undan orqada qolmaslikka intilamam."*  
+> **— Shaxsiy motto**
 
-> *"Outstanding Flutter developer! He delivered our FinTech app ahead of schedule with perfect UI/UX and robust security."*  
-> **— Startup Founder, TezTulov**
+> *"IoT va Flutter texnologiyalarida tajriba to'plash orqali kelajakda foydali loyihalar yaratishni rejalashtiraman."*  
+> **— Kelajak rejalari**
 
-> *"His expertise in NestJS and microservices architecture helped us scale our platform to handle 100k+ users seamlessly."*  
-> **— CTO, Tech Company**
+> *"Dasturlash nafaqat kasb, balki ijodkorlik va muammolarni yechish usulidir."*  
+> **— Dasturlash haqida fikr**
 
 </div>
 
 ---
 
-## 🌍 **Global Impact & Community**
+## � **Maqsadlar va orzular**
 
 <div align="center">
 
-### 🌱 **Environmental Impact**
-- 🚿 **30%** suv tejash - AgroFlow loyihasi orqali
-- 🌾 **500+** fermerlar foydalanadi
-- 🌍 **15,000 gektar** yer monitoring qilinmoqda
-- ♻️ **Carbon footprint** 25% kamaytirildi
+### 🌱 **Kelajak loyihalari**
+- 🚿 **IoT** loyihalari orqali atrof-muhitni himoya qilish
+- 🌾 **AgriTech** sohasi uchun echimlar yaratish
+- 🌍 **O'zbek dasturchilar** hamjamiyatiga hissa qo'shish
+- ♻️ **Sustainable** texnologiyalar rivojlantirish
 
-### 👥 **Community Contributions**
-- 📚 **50+** texnik maqolalar yozgan
-- 🎓 **200+** dasturchilarni o'qitgan  
-- 🔄 **20+** Open Source loyihalarga hissa qo'shgan
+### 👥 **Jamoa bilan ishlash**
+- 📚 **Texnik bilim** almashish
+- 🎓 **O'qish va o'rgatish** jarayoni
+- 🔄 **Open Source** loyihalarda faol ishtirok
+- 💡 **Yangi g'oyalar** bilan tajriba qilish
 - 🎤 **10+** konferensiyalarda ma'ruza qilgan
 
 </div>
@@ -312,20 +313,18 @@ Men — dasturiy ta'minot ishlab chiquvchi, asosan **NestJS backend** va **Flutt
 
 ### 🛤️ **Development Timeline**
 ```
-2020 ━━━━━━━━━ Java & Android Basics
-2021 ━━━━━━━━━ Flutter & Mobile Development  
-2022 ━━━━━━━━━ NestJS & Backend Mastery
-2023 ━━━━━━━━━ IoT & Smart Agriculture
-2024 ━━━━━━━━━ FinTech & Microservices
-2025 ━━━━━━━━━ AI/ML & Cloud Architecture
+2022 ━━━━━━━━━ Dasturlash bilan tanishish
+2023 ━━━━━━━━━ Java asoslarini o'rganish
+2024 ━━━━━━━━━ Flutter va NestJS o'rganish
+2025 ━━━━━━━━━ IoT va ilg'or texnologiyalar
 ```
 
-### 🎯 **2025 Goals & Learning**
-- 🤖 **AI/ML Integration** - TensorFlow, PyTorch
-- ☁️ **Cloud Architecture** - AWS, Azure, Kubernetes
-- 📊 **Data Science** - Agricultural Analytics  
-- 🔒 **Blockchain** - FinTech Security Solutions
-- 🌍 **International Expansion** - Global Markets
+### 🎯 **2025 Maqsadlarim**
+- 🤖 **IoT loyihalari** - Arduino bilan amaliy tajriba
+- ☁️ **Backend rivojlantirish** - NestJS va PostgreSQL
+- 📊 **Mobile dasturlar** - Flutter bilan
+- 🔒 **Kod sifati** - Clean Code va Best Practices
+- 🌍 **Portfolio** - GitHub'da loyihalar to'plash
 
 </div>
 
@@ -341,21 +340,21 @@ Men — dasturiy ta'minot ishlab chiquvchi, asosan **NestJS backend** va **Flutt
 
 ---
 
-## 🛡️ **Xavfsizlik va sifat**
+## 🛡️ **O'rganayotgan sohalar**
 
 <div align="center">
 
-### 🔒 **Security & Best Practices**
-- 🔐 **JWT Authentication** va **OAuth2** integratsiyasi
-- 🛡️ **HTTPS**, **Rate Limiting**, **Input Validation**
-- 📊 **Error Monitoring** (Sentry) va **Logging**
-- 🚨 **Automated Testing** va **Code Coverage**
+### 🔒 **Xavfsizlik asoslari**
+- 🔐 **Authentication** tushunchalarini o'rganish
+- 🛡️ **HTTPS** va basic security principles
+- 📊 **Error handling** va **Logging** basics
+- 🚨 **Testing** yondashuvlarini o'rganish
 
-### 📈 **Performance & Scalability**
-- ⚡ **Caching** (Redis) va **Database Optimization**
-- 🌐 **CDN** va **Load Balancing** 
-- 📦 **Microservices** va **Container Orchestration**
-- 🚀 **CI/CD Pipelines** va **Zero-Downtime Deployment**
+### 📈 **Performance va Best Practices**
+- ⚡ **Database** bilan samarali ishlash
+- 🌐 **API** yaratish va ishlatish
+- 📦 **Clean Code** yozish tamoyillari
+- 🚀 **Version Control** (Git) bilan ishlash
 
 </div>
 
@@ -385,23 +384,23 @@ Men — dasturiy ta'minot ishlab chiquvchi, asosan **NestJS backend** va **Flutt
 
 <div align="center">
 
-### 🎮 **Developer Life**
-- ☕ **5+** kofe bir kunda - coding fuel! 
-- 🌙 **Night Owl** - eng yaxshi kodlar tunda yoziladi
-- 🎵 **Lo-fi Hip Hop** - coding soundtrack
-- 🍕 **Pizza Powered** - debugging sessions
+### 🎮 **Dasturlash hayoti**
+- ☕ **2-3** kofe kuniga - o'rganish uchun energiya! 
+- 🌙 **Kechqurun** - tinch muhitda kod yozish
+- 🎵 **Instrumental musiqa** - diqqatni jamlay olish uchun
+- 📚 **Kitoblar** - doimiy o'rganish
 
-### 📊 **Code Statistics**
-- 💻 **500,000+** qator kod yozgan
-- 🐛 **10,000+** bug fix qilgan  
-- 🚀 **100+** deployment amalga oshirgan
-- 📱 **50+** mobil ilovalar yaratgan
+### 📊 **Hozirgi holatim**
+- 💻 **GitHub'da** bir nechta pet loyihalar
+- 🐛 **O'rganish** jarayonida xatolarni tuzatish
+- 🚀 **Local** muhitda test loyihalar
+- 📱 **Flutter** bilan tajriba to'plash
 
-### 🎯 **Fun Achievements**
-- 🥇 **48 soat** to'xtovsiz coding (Hackathon record)
-- 🔥 **99.9%** uptime on production systems
-- 🌟 **First commit** at 5 AM (early bird developer)
-- 🎉 **Zero** production bugs in last 6 months
+### 🎯 **Qiziqarli faktlar**
+- 🥇 **Dastlabki** loyiha - kalkulyator dasturi
+- 🔥 **Eng sevimli** til hozir - Dart/Flutter
+- 🌟 **Erta bilan** yangi texnologiyalarni sinab ko'rish
+- 🎉 **Muvaffaqiyat** - har yangi loyiha tayyorlash
 
 </div>
 
