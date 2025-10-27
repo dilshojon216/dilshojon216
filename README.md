@@ -20,6 +20,9 @@
     <a href="mailto:dilshodjon216@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
+    <a href="https://leetcode.com/u/dilshodjon216/">
+      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Badge"/>
+    </a>
   </div>
   
   <img src="https://komarev.com/ghpvc/?username=dilshojon216&style=flat-square&color=blue" alt="Profile views"/>
@@ -93,6 +96,7 @@ Men — dasturiy ta'minot ishlab chiquvchi, asosan **NestJS backend** va **Flutt
 - **Backend:** `NestJS` · `TypeScript` · `PostgreSQL` · `MongoDB` · `Redis` · `MQTT (EMQX)` · `REST/GraphQL`
 - **Frontend:** `Flutter` · `Dart` · `React` · `PWA`
 - **IoT & Embedded:** `Arduino` · `STM32` · `RS-NPK-01` · `RS-ECTh-N01-TR` · `AS7265x`
+- **Algorithms & DS:** `LeetCode` · `Data Structures` · `Problem Solving` · `Competitive Programming`
 - **Infra & DevOps:** `Docker` · `Nginx` · `GitHub Actions` · `PM2` · `Tailscale`
 - **Data & Analytics:** `NDVI` · `Weather APIs` · `Irrigation models`
 
@@ -213,13 +217,9 @@ Men — dasturiy ta'minot ishlab chiquvchi, asosan **NestJS backend** va **Flutt
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dilshojon216&theme=tokyonight&hide_border=true)
 
+![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=dilshodjon216&theme=dark)
+
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dilshojon216&theme=tokyo-night&hide_border=true)
-
-### 🏆 **GitHub Trophies**
-[![trophy](https://github-profile-trophy.vercel.app/?username=dilshojon216&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2)](https://github.com/ryo-ma/github-profile-trophy)
-
-### 📈 **Contribution Snake Animation**
-![Snake animation](https://github.com/dilshojon216/dilshojon216/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
@@ -230,7 +230,7 @@ Men — dasturiy ta'minot ishlab chiquvchi, asosan **NestJS backend** va **Flutt
 <div align="center">
 
 ### 📚 **Hozirda o'rganayotgan**
-- 🎯 **IoT Development** - Arduino va STM32 bilan tajriba
+- 🎯 **IoT Development** - STM32 bilan amaliy tajriba
 - 🚀 **Flutter** - Mobil dasturlash o'rganish
 - ⚡ **NestJS** - Backend dasturlash asoslari
 - 💾 **PostgreSQL** - Ma'lumotlar bazasi texnologiyalari
@@ -245,26 +245,9 @@ Men — dasturiy ta'minot ishlab chiquvchi, asosan **NestJS backend** va **Flutt
 
 ---
 
-## 💬 **Mijozlar va Hamkorlar Fikri**
-
-<div align="center">
-
-### � **O'rganish va rivojlanish**
-
-> *"Har kuni yangi narsalarni o'rganishga harakat qilaman. Texnologiya tez rivojlanib bormoqda va men ham undan orqada qolmaslikka intilamam."*  
-> **— Shaxsiy motto**
-
-> *"IoT va Flutter texnologiyalarida tajriba to'plash orqali kelajakda foydali loyihalar yaratishni rejalashtiraman."*  
-> **— Kelajak rejalari**
-
-> *"Dasturlash nafaqat kasb, balki ijodkorlik va muammolarni yechish usulidir."*  
-> **— Dasturlash haqida fikr**
-
-</div>
-
 ---
 
-## � **Maqsadlar va orzular**
+## 🎯 **Maqsadlar va orzular**
 
 <div align="center">
 
@@ -320,7 +303,7 @@ Men — dasturiy ta'minot ishlab chiquvchi, asosan **NestJS backend** va **Flutt
 ```
 
 ### 🎯 **2025 Maqsadlarim**
-- 🤖 **IoT loyihalari** - Arduino bilan amaliy tajriba
+- 🤖 **IoT loyihalari** - STM32 bilan amaliy tajriba
 - ☁️ **Backend rivojlantirish** - NestJS va PostgreSQL
 - 📊 **Mobile dasturlar** - Flutter bilan
 - 🔒 **Kod sifati** - Clean Code va Best Practices
@@ -371,6 +354,7 @@ Men — dasturiy ta'minot ishlab chiquvchi, asosan **NestJS backend** va **Flutt
 - 📩 **Email:** [dilshodjon216@gmail.com](mailto:dilshodjon216@gmail.com)
 - 💬 **Telegram:** [@dilshodjon216](https://t.me/dilshodjon216)
 - 💼 **LinkedIn:** [Dilshodjon Xasanboyev](https://www.linkedin.com/in/dilshodjon-xasanboyev/)
+- 🧩 **LeetCode:** [dilshodjon216](https://leetcode.com/u/dilshodjon216/)
 
 **Loyiha hamkorligi:**
 
@@ -409,17 +393,6 @@ Men — dasturiy ta'minot ishlab chiquvchi, asosan **NestJS backend** va **Flutt
 <div align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" alt="Laptop working">
   <br/>
-  <b>Keling, birgalikda texnologiyani yaxshiroq kelajak uchun ishlaylik! 🚀</b>
-  
-  ### 💌 **Final Message**
-  > *"Code is like humor. When you have to explain it, it's bad."* – Cory House
-  
-  **Men bilan ishlashni istaysizmi?** Quyidagi linklar orqali bog'laning! 👇
+  <b>Keling, birgalikda o'rganaylik va rivojlanaylik! �</b>
 
-</div>
-
----
-
-<div align="center">
-  <sub>Built with ❤️ by Dilshodjon Xasanboyev</sub>
 </div>
